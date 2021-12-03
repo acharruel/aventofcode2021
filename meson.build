@@ -3,6 +3,8 @@ project('Advent of code 2021', 'c',
 
 src = [
     'main.c',
+    'oxygen.c',
+    'power.c',
     'sonar.c',
     'submarine.c'
     ]
